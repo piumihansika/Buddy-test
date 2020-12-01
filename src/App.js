@@ -5,7 +5,8 @@ const App = () => {
     <div>
        <h1>Hello!!</h1>
        <h2>
-             Yaayy! You just created your first React Component
+             Yaayy! You just created your first React Component.
+			 Go Ahead!
        </h2>
     </div>
   );
